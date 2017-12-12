@@ -1,14 +1,11 @@
 {
-  "name": "izzath",
+  "name": "angular-tour-of-heroes",
   "version": "1.0.0",
-  "description": "TypeScript Hello World",
+  "description": "MyFirst Angular project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "izzath",
-  "license": "ISC",
-  "devDependencies": {
-    "tsc": "^1.20150623.0"
-  }
+  "license": "ISC"
 }
